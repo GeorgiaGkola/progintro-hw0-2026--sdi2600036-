@@ -6,3 +6,4 @@ byte2: grep_and_you_shall_find
 
 byte3:programmers
 
+byte4:the_triwizard_cup_is_yours_watch_out_for_the_horntail
